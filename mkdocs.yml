@@ -1,0 +1,28 @@
+site_name: UNLV Cybersecurity 2022 Summer
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - primary: light blue
+      accent: red
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  features:
+    - navigation.instant
+
+nav:
+  - Home: 'index.md'
+  - Contact: 'contact.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
