@@ -4,8 +4,6 @@
 
     Michael Lazeroff
 
-Undergraduate Computer Science UNLV
-
 [Contact](contact)
 
 ---

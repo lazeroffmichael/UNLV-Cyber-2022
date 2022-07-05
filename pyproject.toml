@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "unlv-cyber-2022-summer"
+name = "teaching"
 version = "0.1.0"
 description = ""
 authors = ["Michael Lazeroff <michaeldlazeroff@gmail.com>"]
