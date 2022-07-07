@@ -20,7 +20,6 @@ theme:
     - navigation.instant # Don't reload
     - navigation.tabs # Tabs on top
     - navigation.tabs.sticky # Tabs stay on top
-    - navigation.tracking
 
 markdown_extensions:
   # Admonition

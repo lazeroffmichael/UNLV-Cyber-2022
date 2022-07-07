@@ -18,11 +18,12 @@ at Cybersecurity as a whole.
 
 - [x] Tuesday July 5th
     - Guest Speaker
-- [ ] [Thurs July 7th](summer2022/07-07-22.md) 
-    - Introductions
-    - July 5th Review
-    - OS/Kali Basics
-    - Intro To Python Programming
+- [ ] [Thursday July 7th](summer2022/07-07-22.md) 
+    - [Introductions](summer2022/07-07-22.md#introductions)
+    - [Tuesday July 5th Review](summer2022/07-07-22.md#tuesday-july-5th-review)
+    - [Operating Systems](summer2022/07-07-22.md#operating-systems)
+    - [Intro To Kali Linux](summer2022/07-07-22.md#intro-to-kali-linux)
+    - [Intro To Python Programming](summer2022/07-07-22.md#intro-to-python-programming)
 - [ ] Tuesday July 12th:
     - Cryptography
     - Password Cracking
