@@ -19,8 +19,8 @@ tools and strategies that will be useful in the future.
     The course schedule will be updated as new lessons are created and completed.
 
 - [x] Tuesday July 5th
-    - Guest Speaker
-- [ ] [Thursday July 7th](summer2022/07-07-22.md) 
+    - Guest Speaker on Cybersecurity basics
+- [x] [Thursday July 7th](summer2022/07-07-22.md) 
     - [Introductions](summer2022/07-07-22.md#introductions)
     - [Tuesday July 5th Review](summer2022/07-07-22.md#tuesday-july-5th-review)
     - [Operating Systems](summer2022/07-07-22.md#operating-systems)
