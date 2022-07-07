@@ -1,5 +1,5 @@
 site_name: Cyber Class 2022 
-site_url: https://lazeroffmichael.github.io/teaching/summer2022
+site_url: https://lazeroffmichael.github.io/teaching/
 
 theme:
   name: material
@@ -34,7 +34,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: summer2022/index.md
+  - Home: index.md
   - Summer 2022:
     - Thurs July 7th 2022: summer2022/07-07-22.md
     # - Tues July 12th 2022: summer2022/07-12-22.md
