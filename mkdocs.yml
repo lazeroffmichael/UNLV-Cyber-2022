@@ -1,9 +1,12 @@
 site_name: Cyber Class 2022 
 site_url: https://lazeroffmichael.github.io/teaching/
-#
+
 # Repository
 repo_name: lazeroffmichael/teaching
 repo_url: https://github.com/lazeroffmichael/teaching
+
+# Remove edit button
+edit_uri: ""
 
 theme:
   name: material
