@@ -6,8 +6,10 @@ hide:
 
 # 🤜🏼 Welcome to Cybersecurity Class!
 
-This will be an introductory class to the world of Cybersecurity. We will look
-at Cybersecurity as a whole.
+This is an introductory class to the world of cybersecurity. We will be studying
+different topics ranging from Password Cracking, Networks, Internet Security, 
+Physical Security and more. Hopefully by the end of this class you will pick up
+tools and strategies that will be useful in the future. 
 
 ---
 
