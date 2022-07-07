@@ -1,4 +1,4 @@
-site_name: UNLV Cybersecurity 2022 Summer
+site_name: Cyber Class 2022 
 
 theme:
   name: material
@@ -16,13 +16,26 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
   features:
-    - navigation.instant
-
-nav:
-  - Home: 'index.md'
-  - Contact: 'contact.md'
+    - navigation.instant # Don't reload
+    - navigation.tabs # Tabs on top
+    - navigation.tabs.sticky # Tabs stay on top
+    - navigation.tracking
 
 markdown_extensions:
+  # Admonition
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  # Cool checklists
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
+nav:
+  - Home: summer2022/index.md
+  - Summer 2022:
+    - Thurs July 7th 2022: summer2022/07-07-22.md
+    # - Tues July 12th 2022: summer2022/07-12-22.md
+  - Contact: contact.md
+

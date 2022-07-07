@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "teaching"
 version = "0.1.0"
-description = ""
+description = "Teaching Website"
 authors = ["Michael Lazeroff <michaeldlazeroff@gmail.com>"]
 
 [tool.poetry.dependencies]
