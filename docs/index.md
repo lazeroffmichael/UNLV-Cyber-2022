@@ -27,11 +27,11 @@ tools and strategies that will be useful in the future.
     - [Intro To Kali Linux](summer2022/07-07-22.md#intro-to-kali-linux)
     - [Intro To Python Programming](summer2022/07-07-22.md#intro-to-python-programming)
 - [ ] [Tuesday July 12th](summer2022/07-12-22.md)
-    - Introductions
-    - Cryptography
-    - RDP Brute Force and Mimikatz Demo
-    - Password Cracking
-    - Password Security
+    - [Introductions](summer2022/07-12-22.md#introductions)
+    - [Cryptography](summer2022/07-12-22.md#cryptography)
+    - [RDP Brute Force and Mimikatz Demo](summer2022/07-12-22.md#rdp-brute-force-and-mimikatz-demo)
+    - [Password Cracking](summer2022/07-12-22.md#password-cracking)
+    - [Password Security](summer2022/07-12-22.md#password-security)
 - [ ] Thursday July 14th
     - Networks
     - How The Internet Works
