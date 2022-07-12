@@ -26,12 +26,24 @@ tools and strategies that will be useful in the future.
     - [Operating Systems](summer2022/07-07-22.md#operating-systems)
     - [Intro To Kali Linux](summer2022/07-07-22.md#intro-to-kali-linux)
     - [Intro To Python Programming](summer2022/07-07-22.md#intro-to-python-programming)
-- [ ] Tuesday July 12th:
+- [ ] [Tuesday July 12th](summer2022/07-12-22.md)
+    - Introductions
     - Cryptography
+    - RDP Brute Force and Mimikatz Demo
     - Password Cracking
     - Password Security
-- [ ] Thursday July 14th: TBD
-- [ ] Tuesday July 19th: TBD
-- [ ] Thursday July 21st: TBD
-- [ ] Tuesday July 26th: TBD
-- [ ] Thursday July 28th: Final Assignment
+- [ ] Thursday July 14th
+    - Networks
+    - How The Internet Works
+    - Internet Security
+    - Burp Suite
+- [ ] Tuesday July 19th
+    - Hacking Life Cycle
+    - OSINT
+    - Metasploit
+- [ ] Thursday July 21st 
+    - TBD
+- [ ] Tuesday July 26th 
+    - TBD
+- [ ] Thursday July 28th 
+    - Final Assignment

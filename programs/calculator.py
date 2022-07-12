@@ -1,3 +1,5 @@
+# Michael Lazeroff, 2022
+
 print("Welcome to the calculator!")
 num1 = int(input("Enter num1: "))
 num2 = int(input("Enter num2: "))

@@ -44,10 +44,14 @@ markdown_extensions:
   - toc:
       permalink: true
 
+  # images
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
   - Summer 2022:
     - Thursday July 7th 2022: summer2022/07-07-22.md
-    # - Tues July 12th 2022: summer2022/07-12-22.md
+    - Tuesday July 12th 2022: summer2022/07-12-22.md
   - Contact: contact.md
 
