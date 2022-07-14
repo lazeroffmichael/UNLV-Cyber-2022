@@ -7,6 +7,7 @@ authors = ["Michael Lazeroff <michaeldlazeroff@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 mkdocs-material = "^8.3.9"
+mkdocs-video = "^1.3.0"
 
 [tool.poetry.dev-dependencies]
 

@@ -28,6 +28,9 @@ theme:
     - navigation.tabs # Tabs on top
     - navigation.tabs.sticky # Tabs stay on top
 
+plugins:
+  - mkdocs-video
+
 markdown_extensions:
   # Admonition
   - admonition
