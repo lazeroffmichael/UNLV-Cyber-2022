@@ -26,18 +26,18 @@ tools and strategies that will be useful in the future.
     - [Operating Systems](summer2022/07-07-22.md#operating-systems)
     - [Intro To Kali Linux](summer2022/07-07-22.md#intro-to-kali-linux)
     - [Intro To Python Programming](summer2022/07-07-22.md#intro-to-python-programming)
-- [ ] [Tuesday July 12th](summer2022/07-12-22.md)
+- [x] [Tuesday July 12th](summer2022/07-12-22.md)
     - [Introductions](summer2022/07-12-22.md#introductions)
     - [Cryptography](summer2022/07-12-22.md#cryptography)
     - [RDP Brute Force and Mimikatz Demo](summer2022/07-12-22.md#rdp-brute-force-and-mimikatz-demo)
-    - [Password Cracking](summer2022/07-12-22.md#password-cracking)
     - [Password Security](summer2022/07-12-22.md#password-security)
-- [ ] Thursday July 14th
-    - Networks
-    - How The Internet Works
-    - Internet Security
-    - Burp Suite
+- [ ] [Thursday July 14th](summer2022/07-14-22.md)
+    - [Password Cracking](summer2022/07-14-22.md#password-cracking)
+    - [KeePass Setup](summer2022/07-14-22.md#keepass-setup)
+    - [The Internet](summer2022/07-14-22.md#the-internet) 
+    - [Intro To Offensive Security](summer2022/07-14-22.md#intro-to-offensive-security)
 - [ ] Tuesday July 19th
+    - Review Kahoot
     - Hacking Life Cycle
     - OSINT
     - Metasploit
