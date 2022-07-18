@@ -31,17 +31,21 @@ tools and strategies that will be useful in the future.
     - [Cryptography](summer2022/07-12-22.md#cryptography)
     - [RDP Brute Force and Mimikatz Demo](summer2022/07-12-22.md#rdp-brute-force-and-mimikatz-demo)
     - [Password Security](summer2022/07-12-22.md#password-security)
-- [ ] [Thursday July 14th](summer2022/07-14-22.md)
+- [x] [Thursday July 14th](summer2022/07-14-22.md)
     - [Password Cracking](summer2022/07-14-22.md#password-cracking)
     - [KeePass Setup](summer2022/07-14-22.md#keepass-setup)
     - [The Internet](summer2022/07-14-22.md#the-internet) 
     - [Intro To Offensive Security](summer2022/07-14-22.md#intro-to-offensive-security)
-- [ ] Tuesday July 19th
-    - Review Kahoot
+- [ ] [Tuesday July 19th](summer2022/07-19-22.md)
+    - [Guest Lecturer Introductions](summer2022/07-19-22.md#guest-lecturer-introductions)
+    - [Review Kahoot](summer2022/07-19-22.md#review-kahoot)
+    - [Blockchain](summer2022/07-19-22.md#blockchain)
+    - [Web Applications](summer2022/07-19-22.md#web-applications)
+    - [OSINT Try Hack Me](summer2022/07-19-22.md#osint-try-hack-me)
+- [ ] Thursday July 21st 
     - Hacking Life Cycle
     - OSINT
     - Metasploit
-- [ ] Thursday July 21st 
     - TBD
 - [ ] Tuesday July 26th 
     - TBD
