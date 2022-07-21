@@ -1,7 +1,6 @@
 ---
 hide:
-    - navigation
-    - toc
+    - navigation toc
 ---
 
 # 🤜🏼 Welcome to Cybersecurity Class!
@@ -36,18 +35,21 @@ tools and strategies that will be useful in the future.
     - [KeePass Setup](summer2022/07-14-22.md#keepass-setup)
     - [The Internet](summer2022/07-14-22.md#the-internet) 
     - [Intro To Offensive Security](summer2022/07-14-22.md#intro-to-offensive-security)
-- [ ] [Tuesday July 19th](summer2022/07-19-22.md)
+- [x] [Tuesday July 19th](summer2022/07-19-22.md)
     - [Guest Lecturer Introductions](summer2022/07-19-22.md#guest-lecturer-introductions)
     - [Review Kahoot](summer2022/07-19-22.md#review-kahoot)
     - [Blockchain](summer2022/07-19-22.md#blockchain)
     - [Web Applications](summer2022/07-19-22.md#web-applications)
     - [OSINT Try Hack Me](summer2022/07-19-22.md#osint-try-hack-me)
-- [ ] Thursday July 21st 
-    - Hacking Life Cycle
-    - OSINT
-    - Metasploit
-    - TBD
+- [ ] [Thursday July 21st](summer2022/07-21-22.md)
+    - [Previous Class Review](summer2022/07-21-22.md#previous-class-review)
+    - [Cybersecurity Careers](summer2022/07-21-22.md#cybersecurity-careers)
+    - [Intro to Red Team](summer2022/07-21-22.md#intro-to-red-team)
+    - [Physical Security](summer2022/07-21-22.md#physical-security)
+    - [Social Engineering](summer2022/07-21-22.md#social-engineering)
+    - [Red Team Exercise](summer2022/07-21-22.md#red-team-exercise)
+    - [Stuxnet Case Study](summer2022/07-21-22.md#stuxnet-case-study)
 - [ ] Tuesday July 26th 
-    - TBD
+    - Full Hacking Demo
 - [ ] Thursday July 28th 
-    - Final Assignment
+    - Capture The Flag
