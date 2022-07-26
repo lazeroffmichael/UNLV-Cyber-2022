@@ -3,7 +3,7 @@ hide:
     - navigation toc
 ---
 
-# 🤜🏼 Welcome to Cybersecurity Class!
+# Welcome To The STEM Summer 2022 Cybersecurity Class!
 
 This is an introductory class to the world of cybersecurity. We will be studying
 different topics ranging from Password Cracking, Networks, Internet Security, 
@@ -41,7 +41,7 @@ tools and strategies that will be useful in the future.
     - [Blockchain](summer2022/07-19-22.md#blockchain)
     - [Web Applications](summer2022/07-19-22.md#web-applications)
     - [OSINT Try Hack Me](summer2022/07-19-22.md#osint-try-hack-me)
-- [ ] [Thursday July 21st](summer2022/07-21-22.md)
+- [x] [Thursday July 21st](summer2022/07-21-22.md)
     - [Previous Class Review](summer2022/07-21-22.md#previous-class-review)
     - [Cybersecurity Careers](summer2022/07-21-22.md#cybersecurity-careers)
     - [Intro to Red Team](summer2022/07-21-22.md#intro-to-red-team)
@@ -49,7 +49,10 @@ tools and strategies that will be useful in the future.
     - [Social Engineering](summer2022/07-21-22.md#social-engineering)
     - [Red Team Exercise](summer2022/07-21-22.md#red-team-exercise)
     - [Stuxnet Case Study](summer2022/07-21-22.md#stuxnet-case-study)
-- [ ] Tuesday July 26th 
-    - Full Hacking Demo
+- [ ] [Tuesday July 26th](summer2022/07-26-22.md)
+    - [Previous Classes Review And Survey](summer2022/07-26-22.md#previous-classes-review-and-survey)
+    - [Phishing Kahoot](summer2022/07-26-22.md#phishing-kahoot) 
+    - [Hacking Mr. Robot](summer2022/07-26-22.md#hacking-mr-robot)
+    - [Hacking Picle Rick](summer2022/07-26-22.md#hacking-pickle-rick)
 - [ ] Thursday July 28th 
     - Capture The Flag
