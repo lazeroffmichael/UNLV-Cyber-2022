@@ -49,10 +49,10 @@ tools and strategies that will be useful in the future.
     - [Social Engineering](summer2022/07-21-22.md#social-engineering)
     - [Red Team Exercise](summer2022/07-21-22.md#red-team-exercise)
     - [Stuxnet Case Study](summer2022/07-21-22.md#stuxnet-case-study)
-- [ ] [Tuesday July 26th](summer2022/07-26-22.md)
+- [x] [Tuesday July 26th](summer2022/07-26-22.md)
     - [Previous Classes Review And Survey](summer2022/07-26-22.md#previous-classes-review-and-survey)
     - [Phishing Kahoot](summer2022/07-26-22.md#phishing-kahoot) 
     - [Hacking Mr. Robot](summer2022/07-26-22.md#hacking-mr-robot)
     - [Hacking Pickle Rick](summer2022/07-26-22.md#hacking-pickle-rick)
-- [ ] Thursday July 28th 
-    - Capture The Flag
+- [ ] [Thursday July 28th](summer2022/07-28-22.md)
+    - [Capture The Flag](summer2022/07-28-22.md#capture-the-flag)
