@@ -54,5 +54,5 @@ tools and strategies that will be useful in the future.
     - [Phishing Kahoot](summer2022/07-26-22.md#phishing-kahoot) 
     - [Hacking Mr. Robot](summer2022/07-26-22.md#hacking-mr-robot)
     - [Hacking Pickle Rick](summer2022/07-26-22.md#hacking-pickle-rick)
-- [ ] [Thursday July 28th](summer2022/07-28-22.md)
+- [x] [Thursday July 28th](summer2022/07-28-22.md)
     - [Capture The Flag](summer2022/07-28-22.md#capture-the-flag)
